@@ -1,0 +1,2 @@
+# netease_lyric_dump_quick
+给用Poweramp的强迫症们做的读网易云歌词的东西
